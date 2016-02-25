@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="@routes.Assets.at("stylesheets/style.css")">
+<script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="@routes.Assets.at("javascripts/script.js")"></script>
+<html>
+    <head>
+        <title>Site for measure latency</title>
+    </head>
+    <body>
+	    <div id = "container">
+            <div id = "url_form">
+                Put web site in field and push "Send"
+                <form action = "/check">
+                <input type = "text" name = "site_url">
+                <input type = "submit" value = "Send">
+	   	        </form>
+	        </div>
+
+            <div id = "main_info">
+                This is test web site for measure sub html`s in page, which you entered.<br>
+                <br>
+                Coming soon:
+                <ul>
+                <li>checking for valid html!!</li>
+                <li>change speedl!!</li>
+                </ul>
+            </div>
+	    </div>
+    </body>
+</html>

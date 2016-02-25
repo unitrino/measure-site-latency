@@ -1,0 +1,4 @@
+2016-02-25 10:02:46,170 [INFO] from play.core.server.NettyServer in pool-4-thread-1 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-02-25 10:04:10,969 [WARN] from application in ForkJoinPool-1-worker-1 - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead.
+2016-02-25 10:04:13,767 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2016-02-25 10:05:01,706 [WARN] from org.jboss.netty.util.internal.SharedResourceMisuseDetector in application-akka.actor.default-dispatcher-4 - You are creating too many HashedWheelTimer instances.  HashedWheelTimer is a shared resource that must be reused across the application, so that only a few instances are created.
