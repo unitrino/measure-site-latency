@@ -16,7 +16,7 @@
 [debug] == resolving dependencies for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT [compile]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-compiler;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@484c51e2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@616ba2cc
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.7
 [debug] 	found org.scala-lang#scala-compiler;2.11.7 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-compiler;2.11.7 [compile->runtime]
@@ -24,7 +24,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-compiler;2.11.7 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c708faf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b772369
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -33,7 +33,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@118528e9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@353cff07
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.7
 [debug] 	found org.scala-lang#scala-reflect;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-reflect;2.11.7
@@ -42,7 +42,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.7 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.4 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2035c295
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@650ca01d
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.4 [compile->runtime]
@@ -50,7 +50,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.4 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4be0e390
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66e78d77
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->runtime]
@@ -58,7 +58,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->default(compile)]
 [info] Resolving com.typesafe.play#twirl-api_2.11;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f98e207
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69ccda07
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#twirl-api_2.11;1.1.1
 [debug] 	found com.typesafe.play#twirl-api_2.11;1.1.1 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->runtime]
@@ -66,7 +66,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a23cdfa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22cf6bb9
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.4
 [debug] 	found org.apache.commons#commons-lang3;3.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime]
@@ -74,7 +74,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-server_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-server_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20d5401f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fa62da7
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-server_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-server_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-server_2.11;2.4.3 [compile->runtime]
@@ -82,7 +82,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-server_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e5cbb5d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@769edbbe
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play_2.11;2.4.3
 [debug] 	found com.typesafe.play#play_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play_2.11;2.4.3 [compile->runtime]
@@ -90,7 +90,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#build-link;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#build-link;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67e04fe7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31dc0f94
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#build-link;2.4.3
 [debug] 	found com.typesafe.play#build-link;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#build-link;2.4.3 [compile->runtime]
@@ -98,7 +98,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#build-link;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-exceptions;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-exceptions;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@121b8d83
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d41b996
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-exceptions;2.4.3
 [debug] 	found com.typesafe.play#play-exceptions;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-exceptions;2.4.3 [compile->runtime]
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-exceptions;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.javassist#javassist;3.19.0-GA [compile->default(compile)]
 [info] Resolving org.javassist#javassist;3.19.0-GA ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69804bc6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d457364
 [debug] sbt-chain: module revision found in cache: org.javassist#javassist;3.19.0-GA
 [debug] 	found org.javassist#javassist;3.19.0-GA in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.javassist#javassist;3.19.0-GA [compile->runtime]
@@ -114,7 +114,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.javassist#javassist;3.19.0-GA [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-iteratees_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@863edf6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21d39efc
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-iteratees_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-iteratees_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->runtime]
@@ -122,7 +122,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-stm#scala-stm_2.11;0.7 [compile->default(compile)]
 [info] Resolving org.scala-stm#scala-stm_2.11;0.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48b477d4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30777923
 [debug] sbt-chain: module revision found in cache: org.scala-stm#scala-stm_2.11;0.7
 [debug] 	found org.scala-stm#scala-stm_2.11;0.7 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-stm#scala-stm_2.11;0.7 [compile->runtime]
@@ -130,7 +130,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-stm#scala-stm_2.11;0.7 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe#config;1.3.0 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ffa0ec9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@757c290
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.0
 [debug] 	found com.typesafe#config;1.3.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe#config;1.3.0 [compile->runtime]
@@ -138,7 +138,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe#config;1.3.0 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-json_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-json_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d42c09c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a2ea3af
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-json_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-json_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-json_2.11;2.4.3 [compile->runtime]
@@ -146,7 +146,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-json_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-functional_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-functional_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ea3b032
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68cffc4e
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-functional_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-functional_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-functional_2.11;2.4.3 [compile->runtime]
@@ -154,7 +154,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-functional_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-datacommons_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@527d785d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b522a98
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-datacommons_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-datacommons_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->runtime]
@@ -162,7 +162,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->joda-time#joda-time;2.8.1 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.8.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3dffef8f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a975ff2
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.8.1
 [debug] 	found joda-time#joda-time;2.8.1 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->joda-time#joda-time;2.8.1 [compile->runtime]
@@ -170,7 +170,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->joda-time#joda-time;2.8.1 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.joda#joda-convert;1.7 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ea2e386
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76914166
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.7
 [debug] 	found org.joda#joda-convert;1.7 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.joda#joda-convert;1.7 [compile->runtime]
@@ -178,7 +178,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.joda#joda-convert;1.7 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@298fdfff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ddb76ae
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.5.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->runtime]
@@ -186,7 +186,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b6b0b05
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34fcffdd
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.5.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->runtime]
@@ -194,7 +194,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25c940ac
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77a9c87a
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.5.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->runtime]
@@ -202,7 +202,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fd5f57a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7bb188de
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->runtime]
@@ -210,7 +210,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@665fb5aa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@502b9f5d
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->runtime]
@@ -218,7 +218,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-netty-utils;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-netty-utils;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b7bb1cc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4627f83
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-netty-utils;2.4.3
 [debug] 	found com.typesafe.play#play-netty-utils;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-netty-utils;2.4.3 [compile->runtime]
@@ -226,7 +226,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-netty-utils;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.slf4j#slf4j-api;1.7.12 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30869bd9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d5798e1
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.12
 [debug] 	found org.slf4j#slf4j-api;1.7.12 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.slf4j#slf4j-api;1.7.12 [compile->runtime]
@@ -234,7 +234,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.slf4j#slf4j-api;1.7.12 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.slf4j#jul-to-slf4j;1.7.12 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77d67c0f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@341948d9
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.12
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.12 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.slf4j#jul-to-slf4j;1.7.12 [compile->runtime]
@@ -242,7 +242,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.slf4j#jul-to-slf4j;1.7.12 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.slf4j#jcl-over-slf4j;1.7.12 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ca5af11
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@456498dd
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.12
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.12 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.slf4j#jcl-over-slf4j;1.7.12 [compile->runtime]
@@ -250,7 +250,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.slf4j#jcl-over-slf4j;1.7.12 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->ch.qos.logback#logback-core;1.1.3 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-core;1.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f088223
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fee2a4a
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-core;1.1.3
 [debug] 	found ch.qos.logback#logback-core;1.1.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->ch.qos.logback#logback-core;1.1.3 [compile->runtime]
@@ -258,7 +258,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->ch.qos.logback#logback-core;1.1.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->ch.qos.logback#logback-classic;1.1.3 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-classic;1.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1624844f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9935b84
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-classic;1.1.3
 [debug] 	found ch.qos.logback#logback-classic;1.1.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->ch.qos.logback#logback-classic;1.1.3 [compile->runtime]
@@ -266,7 +266,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->ch.qos.logback#logback-classic;1.1.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.akka#akka-actor_2.11;2.3.13 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67d11539
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64f82424
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.13
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.13 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.akka#akka-actor_2.11;2.3.13 [compile->runtime]
@@ -274,7 +274,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.akka#akka-actor_2.11;2.3.13 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.akka#akka-slf4j_2.11;2.3.13 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-slf4j_2.11;2.3.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a755c52
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6914b465
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-slf4j_2.11;2.3.13
 [debug] 	found com.typesafe.akka#akka-slf4j_2.11;2.3.13 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.akka#akka-slf4j_2.11;2.3.13 [compile->runtime]
@@ -282,7 +282,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.akka#akka-slf4j_2.11;2.3.13 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@776741de
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37f04ccb
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.10
 [debug] 	found commons-codec#commons-codec;1.10 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime]
@@ -290,7 +290,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->xerces#xercesImpl;2.11.0 [compile->default(compile)]
 [info] Resolving xerces#xercesImpl;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f1bfd3b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f2db39
 [debug] sbt-chain: module revision found in cache: xerces#xercesImpl;2.11.0
 [debug] 	found xerces#xercesImpl;2.11.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->xerces#xercesImpl;2.11.0 [compile->runtime]
@@ -298,7 +298,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->xerces#xercesImpl;2.11.0 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->xml-apis#xml-apis;1.4.01 [compile->default(compile)]
 [info] Resolving xml-apis#xml-apis;1.4.01 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44167655
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@723b848a
 [debug] sbt-chain: module revision found in cache: xml-apis#xml-apis;1.4.01
 [debug] 	found xml-apis#xml-apis;1.4.01 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->xml-apis#xml-apis;1.4.01 [compile->runtime]
@@ -306,7 +306,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->xml-apis#xml-apis;1.4.01 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->javax.transaction#jta;1.1 [compile->default(compile)]
 [info] Resolving javax.transaction#jta;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5efd119b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7754e4a8
 [debug] sbt-chain: module revision found in cache: javax.transaction#jta;1.1
 [debug] 	found javax.transaction#jta;1.1 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->javax.transaction#jta;1.1 [compile->runtime]
@@ -314,7 +314,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.inject#guice;4.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4410b86e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68ec443d
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;4.0
 [debug] 	found com.google.inject#guice;4.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.inject#guice;4.0 [compile->runtime]
@@ -322,7 +322,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.inject#guice;4.0 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75a416d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d0bc708
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->javax.inject#javax.inject;1 [compile->runtime]
@@ -330,7 +330,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64bc5e1b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cb2151b
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->aopalliance#aopalliance;1.0 [compile->runtime]
@@ -338,7 +338,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.inject.extensions#guice-assistedinject;4.0 [compile->default(compile)]
 [info] Resolving com.google.inject.extensions#guice-assistedinject;4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a6cf6c2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f119baa
 [debug] sbt-chain: module revision found in cache: com.google.inject.extensions#guice-assistedinject;4.0
 [debug] 	found com.google.inject.extensions#guice-assistedinject;4.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.inject.extensions#guice-assistedinject;4.0 [compile->runtime]
@@ -346,7 +346,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.inject.extensions#guice-assistedinject;4.0 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-netty-server_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-netty-server_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35776c7f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9b07075
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-netty-server_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-netty-server_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-netty-server_2.11;2.4.3 [compile->runtime]
@@ -354,7 +354,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-netty-server_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->io.netty#netty;3.10.4.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.10.4.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72117dc8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e406f9
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.10.4.Final
 [debug] 	found io.netty#netty;3.10.4.Final in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->io.netty#netty;3.10.4.Final [compile->runtime]
@@ -362,7 +362,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->io.netty#netty;3.10.4.Final [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.netty#netty-http-pipelining;1.1.4 [compile->default(compile)]
 [info] Resolving com.typesafe.netty#netty-http-pipelining;1.1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19b97586
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c6f9636
 [debug] sbt-chain: module revision found in cache: com.typesafe.netty#netty-http-pipelining;1.1.4
 [debug] 	found com.typesafe.netty#netty-http-pipelining;1.1.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.netty#netty-http-pipelining;1.1.4 [compile->runtime]
@@ -370,7 +370,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.netty#netty-http-pipelining;1.1.4 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-jdbc_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-jdbc_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b00e9c4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d10dd15
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-jdbc_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-jdbc_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-jdbc_2.11;2.4.3 [compile->runtime]
@@ -378,7 +378,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-jdbc_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-jdbc-api_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-jdbc-api_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@cbaabc7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ea059bd
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-jdbc-api_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-jdbc-api_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-jdbc-api_2.11;2.4.3 [compile->runtime]
@@ -386,7 +386,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-jdbc-api_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.jolbox#bonecp;0.8.0.RELEASE [compile->default(compile)]
 [info] Resolving com.jolbox#bonecp;0.8.0.RELEASE ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24cbfb45
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d64539f
 [debug] sbt-chain: module revision found in cache: com.jolbox#bonecp;0.8.0.RELEASE
 [debug] 	found com.jolbox#bonecp;0.8.0.RELEASE in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.jolbox#bonecp;0.8.0.RELEASE [compile->runtime]
@@ -394,7 +394,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.jolbox#bonecp;0.8.0.RELEASE [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.zaxxer#HikariCP;2.3.7 [compile->default(compile)]
 [info] Resolving com.zaxxer#HikariCP;2.3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fd5c058
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f000897
 [debug] sbt-chain: module revision found in cache: com.zaxxer#HikariCP;2.3.7
 [debug] 	found com.zaxxer#HikariCP;2.3.7 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.zaxxer#HikariCP;2.3.7 [compile->runtime]
@@ -402,7 +402,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.zaxxer#HikariCP;2.3.7 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.h2database#h2;1.4.187 [compile->default(compile)]
 [info] Resolving com.h2database#h2;1.4.187 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16998fa1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b8b0c62
 [debug] sbt-chain: module revision found in cache: com.h2database#h2;1.4.187
 [debug] 	found com.h2database#h2;1.4.187 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.h2database#h2;1.4.187 [compile->runtime]
@@ -410,7 +410,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.h2database#h2;1.4.187 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-cache_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-cache_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f522842
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3beef0eb
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-cache_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-cache_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-cache_2.11;2.4.3 [compile->runtime]
@@ -418,7 +418,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-cache_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sf.ehcache#ehcache-core;2.6.11 [compile->default(compile)]
 [info] Resolving net.sf.ehcache#ehcache-core;2.6.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38b0c6ae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2dae1e79
 [debug] sbt-chain: module revision found in cache: net.sf.ehcache#ehcache-core;2.6.11
 [debug] 	found net.sf.ehcache#ehcache-core;2.6.11 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sf.ehcache#ehcache-core;2.6.11 [compile->runtime]
@@ -426,7 +426,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sf.ehcache#ehcache-core;2.6.11 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.postgresql#postgresql;9.4-1201-jdbc41 [compile->default(compile)]
 [info] Resolving org.postgresql#postgresql;9.4-1201-jdbc41 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fe1f841
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18709202
 [debug] sbt-chain: module revision found in cache: org.postgresql#postgresql;9.4-1201-jdbc41
 [debug] 	found org.postgresql#postgresql;9.4-1201-jdbc41 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.postgresql#postgresql;9.4-1201-jdbc41 [compile->runtime]
@@ -434,7 +434,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.postgresql#postgresql;9.4-1201-jdbc41 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-ws_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-ws_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70fc87b4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39be56b3
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-ws_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-ws_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-ws_2.11;2.4.3 [compile->runtime]
@@ -442,7 +442,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-ws_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.guava#guava;18.0 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;18.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@498a1786
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11147191
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;18.0
 [debug] 	found com.google.guava#guava;18.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.guava#guava;18.0 [compile->runtime]
@@ -450,7 +450,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.guava#guava;18.0 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.ning#async-http-client;1.9.21 [compile->default(compile)]
 [info] Resolving com.ning#async-http-client;1.9.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c7fd564
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@194a4309
 [debug] sbt-chain: module revision found in cache: com.ning#async-http-client;1.9.21
 [debug] 	found com.ning#async-http-client;1.9.21 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.ning#async-http-client;1.9.21 [compile->runtime]
@@ -458,7 +458,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.ning#async-http-client;1.9.21 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->oauth.signpost#signpost-core;1.2.1.2 [compile->default(compile)]
 [info] Resolving oauth.signpost#signpost-core;1.2.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40a4ca77
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67f2252f
 [debug] sbt-chain: module revision found in cache: oauth.signpost#signpost-core;1.2.1.2
 [debug] 	found oauth.signpost#signpost-core;1.2.1.2 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->oauth.signpost#signpost-core;1.2.1.2 [compile->runtime]
@@ -466,7 +466,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->oauth.signpost#signpost-core;1.2.1.2 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->oauth.signpost#signpost-commonshttp4;1.2.1.2 [compile->default(compile)]
 [info] Resolving oauth.signpost#signpost-commonshttp4;1.2.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a9e3834
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@357f84af
 [debug] sbt-chain: module revision found in cache: oauth.signpost#signpost-commonshttp4;1.2.1.2
 [debug] 	found oauth.signpost#signpost-commonshttp4;1.2.1.2 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->oauth.signpost#signpost-commonshttp4;1.2.1.2 [compile->runtime]
@@ -474,7 +474,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->oauth.signpost#signpost-commonshttp4;1.2.1.2 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpcore;4.0.1 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38f930c5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a88733f
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.0.1
 [debug] 	found org.apache.httpcomponents#httpcore;4.0.1 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpcore;4.0.1 [compile->runtime]
@@ -482,7 +482,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpcore;4.0.1 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpclient;4.0.1 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d9176ff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b81822
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.0.1
 [debug] 	found org.apache.httpcomponents#httpclient;4.0.1 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpclient;4.0.1 [compile->runtime]
@@ -490,7 +490,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpclient;4.0.1 [compile->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@713a0621
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50adcca6
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.1
 [debug] 	found commons-logging#commons-logging;1.1.1 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-logging#commons-logging;1.1.1 [compile->runtime]
@@ -1675,7 +1675,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->oauth.signpost#signpost-commonshttp4;1.2.1.2 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-test_2.11;2.4.3 [test->default(compile)]
 [info] Resolving com.typesafe.play#play-test_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@357d51bd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ae126d3
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-test_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-test_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.typesafe.play#play-test_2.11;2.4.3 [test->runtime]
@@ -1691,7 +1691,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->junit#junit;4.12 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.hamcrest#hamcrest-core;1.3 [test->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cfb91c1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6200fbfe
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	found org.hamcrest#hamcrest-core;1.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.hamcrest#hamcrest-core;1.3 [test->runtime]
@@ -1699,7 +1699,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.hamcrest#hamcrest-core;1.3 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.novocode#junit-interface;0.11 [test->default(compile)]
 [info] Resolving com.novocode#junit-interface;0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6061602e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46f13d11
 [debug] sbt-chain: module revision found in cache: com.novocode#junit-interface;0.11
 [debug] 	found com.novocode#junit-interface;0.11 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.novocode#junit-interface;0.11 [test->runtime]
@@ -1707,7 +1707,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.novocode#junit-interface;0.11 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-sbt#test-interface;1.0 [test->default(compile)]
 [info] Resolving org.scala-sbt#test-interface;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c95e273
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7457575d
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
 [debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-sbt#test-interface;1.0 [test->runtime]
@@ -1715,7 +1715,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.scala-sbt#test-interface;1.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.code.findbugs#jsr305;2.0.3 [test->default(compile)]
 [info] Resolving com.google.code.findbugs#jsr305;2.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f02dccc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e551fb3
 [debug] sbt-chain: module revision found in cache: com.google.code.findbugs#jsr305;2.0.3
 [debug] 	found com.google.code.findbugs#jsr305;2.0.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.code.findbugs#jsr305;2.0.3 [test->runtime]
@@ -1723,7 +1723,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.code.findbugs#jsr305;2.0.3 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.fluentlenium#fluentlenium-core;0.10.3 [test->default(compile)]
 [info] Resolving org.fluentlenium#fluentlenium-core;0.10.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e6198ae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@123750e2
 [debug] sbt-chain: module revision found in cache: org.fluentlenium#fluentlenium-core;0.10.3
 [debug] 	found org.fluentlenium#fluentlenium-core;0.10.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.fluentlenium#fluentlenium-core;0.10.3 [test->runtime]
@@ -1731,7 +1731,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.fluentlenium#fluentlenium-core;0.10.3 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-java;2.44.0 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-java;2.44.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b32ec7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@277e9124
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-java;2.44.0
 [debug] 	found org.seleniumhq.selenium#selenium-java;2.44.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-java;2.44.0 [test->runtime]
@@ -1739,7 +1739,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-java;2.44.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-chrome-driver;2.44.0 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-chrome-driver;2.44.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40ba83b5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61986df
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-chrome-driver;2.44.0
 [debug] 	found org.seleniumhq.selenium#selenium-chrome-driver;2.44.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-chrome-driver;2.44.0 [test->runtime]
@@ -1747,7 +1747,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-chrome-driver;2.44.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-remote-driver;2.44.0 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-remote-driver;2.44.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1552173c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37510c5f
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-remote-driver;2.44.0
 [debug] 	found org.seleniumhq.selenium#selenium-remote-driver;2.44.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-remote-driver;2.44.0 [test->runtime]
@@ -1755,7 +1755,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-remote-driver;2.44.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->cglib#cglib-nodep;2.1_3 [test->default(compile)]
 [info] Resolving cglib#cglib-nodep;2.1_3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dccc456
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b4103ad
 [debug] sbt-chain: module revision found in cache: cglib#cglib-nodep;2.1_3
 [debug] 	found cglib#cglib-nodep;2.1_3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->cglib#cglib-nodep;2.1_3 [test->runtime]
@@ -1763,7 +1763,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->cglib#cglib-nodep;2.1_3 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.code.gson#gson;2.3 [test->default(compile)]
 [info] Resolving com.google.code.gson#gson;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cbcf95e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e3a9320
 [debug] sbt-chain: module revision found in cache: com.google.code.gson#gson;2.3
 [debug] 	found com.google.code.gson#gson;2.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.code.gson#gson;2.3 [test->runtime]
@@ -1771,7 +1771,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->com.google.code.gson#gson;2.3 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-api;2.44.0 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-api;2.44.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41afe500
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43936014
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-api;2.44.0
 [debug] 	found org.seleniumhq.selenium#selenium-api;2.44.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-api;2.44.0 [test->runtime]
@@ -1779,7 +1779,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-api;2.44.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpclient;4.3.4 [test->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bd168eb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40455aee
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.3.4
 [debug] 	found org.apache.httpcomponents#httpclient;4.3.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpclient;4.3.4 [test->runtime]
@@ -1787,7 +1787,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpclient;4.3.4 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpcore;4.3.2 [test->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@512a59c8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21838c1f
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.3.2
 [debug] 	found org.apache.httpcomponents#httpcore;4.3.2 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpcore;4.3.2 [test->runtime]
@@ -1795,7 +1795,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpcore;4.3.2 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-logging#commons-logging;1.1.3 [test->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16d57326
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3db2e24f
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.3
 [debug] 	found commons-logging#commons-logging;1.1.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-logging#commons-logging;1.1.3 [test->runtime]
@@ -1803,7 +1803,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-logging#commons-logging;1.1.3 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-exec;1.1 [test->default(compile)]
 [info] Resolving org.apache.commons#commons-exec;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ab4df96
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40982910
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-exec;1.1
 [debug] 	found org.apache.commons#commons-exec;1.1 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-exec;1.1 [test->runtime]
@@ -1811,7 +1811,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-exec;1.1 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.java.dev.jna#jna;3.4.0 [test->default(compile)]
 [info] Resolving net.java.dev.jna#jna;3.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69d4ae35
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27726f6c
 [debug] sbt-chain: module revision found in cache: net.java.dev.jna#jna;3.4.0
 [debug] 	found net.java.dev.jna#jna;3.4.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.java.dev.jna#jna;3.4.0 [test->runtime]
@@ -1819,7 +1819,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.java.dev.jna#jna;3.4.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.java.dev.jna#platform;3.4.0 [test->default(compile)]
 [info] Resolving net.java.dev.jna#platform;3.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21e476c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@577a98e8
 [debug] sbt-chain: module revision found in cache: net.java.dev.jna#platform;3.4.0
 [debug] 	found net.java.dev.jna#platform;3.4.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.java.dev.jna#platform;3.4.0 [test->runtime]
@@ -1827,7 +1827,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.java.dev.jna#platform;3.4.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-htmlunit-driver;2.44.0 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-htmlunit-driver;2.44.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ecd3ac6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cb5da02
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-htmlunit-driver;2.44.0
 [debug] 	found org.seleniumhq.selenium#selenium-htmlunit-driver;2.44.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-htmlunit-driver;2.44.0 [test->runtime]
@@ -1835,7 +1835,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-htmlunit-driver;2.44.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.htmlunit#htmlunit;2.15 [test->default(compile)]
 [info] Resolving net.sourceforge.htmlunit#htmlunit;2.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@349501dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b1f49c3
 [debug] sbt-chain: module revision found in cache: net.sourceforge.htmlunit#htmlunit;2.15
 [debug] 	found net.sourceforge.htmlunit#htmlunit;2.15 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.htmlunit#htmlunit;2.15 [test->runtime]
@@ -1843,7 +1843,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.htmlunit#htmlunit;2.15 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->xalan#xalan;2.7.1 [test->default(compile)]
 [info] Resolving xalan#xalan;2.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@309efc59
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12a0ee6
 [debug] sbt-chain: module revision found in cache: xalan#xalan;2.7.1
 [debug] 	found xalan#xalan;2.7.1 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->xalan#xalan;2.7.1 [test->runtime]
@@ -1851,7 +1851,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->xalan#xalan;2.7.1 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-collections#commons-collections;3.2.1 [test->default(compile)]
 [info] Resolving commons-collections#commons-collections;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25ec38a1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e3bcc7d
 [debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.1
 [debug] 	found commons-collections#commons-collections;3.2.1 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-collections#commons-collections;3.2.1 [test->runtime]
@@ -1859,7 +1859,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-collections#commons-collections;3.2.1 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpmime;4.3.3 [test->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpmime;4.3.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@373ad0e2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46c896a
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpmime;4.3.3
 [debug] 	found org.apache.httpcomponents#httpmime;4.3.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpmime;4.3.3 [test->runtime]
@@ -1867,7 +1867,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpmime;4.3.3 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->default(compile)]
 [info] Resolving net.sourceforge.htmlunit#htmlunit-core-js;2.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5388f2a5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ca179ef
 [debug] sbt-chain: module revision found in cache: net.sourceforge.htmlunit#htmlunit-core-js;2.15
 [debug] 	found net.sourceforge.htmlunit#htmlunit-core-js;2.15 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->runtime]
@@ -1875,7 +1875,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->default(compile)]
 [info] Resolving net.sourceforge.nekohtml#nekohtml;1.9.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@550e4030
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@215a872e
 [debug] sbt-chain: module revision found in cache: net.sourceforge.nekohtml#nekohtml;1.9.21
 [debug] 	found net.sourceforge.nekohtml#nekohtml;1.9.21 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->runtime]
@@ -1883,7 +1883,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.cssparser#cssparser;0.9.14 [test->default(compile)]
 [info] Resolving net.sourceforge.cssparser#cssparser;0.9.14 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c834eb2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@573e45d9
 [debug] sbt-chain: module revision found in cache: net.sourceforge.cssparser#cssparser;0.9.14
 [debug] 	found net.sourceforge.cssparser#cssparser;0.9.14 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.cssparser#cssparser;0.9.14 [test->runtime]
@@ -1891,7 +1891,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->net.sourceforge.cssparser#cssparser;0.9.14 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.w3c.css#sac;1.3 [test->default(compile)]
 [info] Resolving org.w3c.css#sac;1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@684ec04e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3aa92f7a
 [debug] sbt-chain: module revision found in cache: org.w3c.css#sac;1.3
 [debug] 	found org.w3c.css#sac;1.3 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.w3c.css#sac;1.3 [test->runtime]
@@ -1899,7 +1899,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.w3c.css#sac;1.3 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-io#commons-io;2.4 [test->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7bd8b768
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65505479
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-io#commons-io;2.4 [test->runtime]
@@ -1907,7 +1907,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->commons-io#commons-io;2.4 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e578163
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5bef504a
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-websocket;8.1.15.v20140411
 [debug] 	found org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->runtime]
@@ -1915,7 +1915,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-util;8.1.15.v20140411 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4da46c8f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31b3650d
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-util;8.1.15.v20140411
 [debug] 	found org.eclipse.jetty#jetty-util;8.1.15.v20140411 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->runtime]
@@ -1923,7 +1923,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-io;8.1.15.v20140411 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31df173c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68b044a5
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-io;8.1.15.v20140411
 [debug] 	found org.eclipse.jetty#jetty-io;8.1.15.v20140411 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->runtime]
@@ -1931,7 +1931,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-http;8.1.15.v20140411 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1281e88e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47358533
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-http;8.1.15.v20140411
 [debug] 	found org.eclipse.jetty#jetty-http;8.1.15.v20140411 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->runtime]
@@ -1939,7 +1939,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-firefox-driver;2.44.0 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-firefox-driver;2.44.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11ce85f1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e6e1327
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-firefox-driver;2.44.0
 [debug] 	found org.seleniumhq.selenium#selenium-firefox-driver;2.44.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-firefox-driver;2.44.0 [test->runtime]
@@ -1947,7 +1947,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-firefox-driver;2.44.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-ie-driver;2.44.0 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-ie-driver;2.44.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d28e0c1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e51369a
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-ie-driver;2.44.0
 [debug] 	found org.seleniumhq.selenium#selenium-ie-driver;2.44.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-ie-driver;2.44.0 [test->runtime]
@@ -1955,7 +1955,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-ie-driver;2.44.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-safari-driver;2.44.0 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-safari-driver;2.44.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@560799d8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38faa111
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-safari-driver;2.44.0
 [debug] 	found org.seleniumhq.selenium#selenium-safari-driver;2.44.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-safari-driver;2.44.0 [test->runtime]
@@ -1963,7 +1963,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-safari-driver;2.44.0 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.webbitserver#webbit;0.4.14 [test->default(compile)]
 [info] Resolving org.webbitserver#webbit;0.4.14 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50cc149
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e6c2a28
 [debug] sbt-chain: module revision found in cache: org.webbitserver#webbit;0.4.14
 [debug] 	found org.webbitserver#webbit;0.4.14 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.webbitserver#webbit;0.4.14 [test->runtime]
@@ -1971,7 +1971,7 @@
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.webbitserver#webbit;0.4.14 [test->master]
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-support;2.44.0 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-support;2.44.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c09aa5a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a1fd0f3
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-support;2.44.0
 [debug] 	found org.seleniumhq.selenium#selenium-support;2.44.0 in sbt-chain
 [debug] == resolving dependencies play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT->org.seleniumhq.selenium#selenium-support;2.44.0 [test->runtime]
@@ -4978,18 +4978,18 @@
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar(src)
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-util;4.1!asm-util.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 8904ms :: artifacts dl 311ms
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT compile produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-compile.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT runtime produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-runtime.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT test produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-test.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT provided produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-provided.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT optional produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-optional.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT compile-internal produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-compile-internal.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT runtime-internal produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-runtime-internal.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT test-internal produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-test-internal.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT plugin produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-plugin.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT sources produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-sources.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT docs produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-docs.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT pom produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-pom.xml
-[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT scala-tool produced in /home/denis/Heroku/site-latency/play-getting-started/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-scala-tool.xml
-[debug] 	resolve done (8904ms resolve - 311ms download)
+[debug] :: resolution report :: resolve 3050ms :: artifacts dl 109ms
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT compile produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-compile.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT runtime produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-runtime.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT test produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-test.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT provided produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-provided.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT optional produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-optional.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT compile-internal produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-compile-internal.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT runtime-internal produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-runtime-internal.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT test-internal produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-test-internal.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT plugin produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-plugin.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT sources produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-sources.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT docs produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-docs.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT pom produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-pom.xml
+[debug] 	report for play-getting-started#play-getting-started$sources_2.11;1.0-SNAPSHOT scala-tool produced in /home/denis/Heroku/site-latency/site-latency/target/resolution-cache/reports/play-getting-started-play-getting-started$sources_2.11-scala-tool.xml
+[debug] 	resolve done (3050ms resolve - 109ms download)

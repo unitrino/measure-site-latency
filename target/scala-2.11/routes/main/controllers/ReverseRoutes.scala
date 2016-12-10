@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/denis/Heroku/site-latency/play-getting-started/conf/routes
-// @DATE:Wed Feb 24 11:45:57 EET 2016
+// @SOURCE:/home/denis/Heroku/site-latency/site-latency/conf/routes
+// @DATE:Sun Nov 20 12:32:37 EET 2016
 
 import play.api.mvc.{ QueryStringBindable, PathBindable, Call, JavascriptLiteral }
 import play.core.routing.{ HandlerDef, ReverseRouteContext, queryString, dynamicString }

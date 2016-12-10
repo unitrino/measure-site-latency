@@ -1,6 +1,6 @@
 package controllers
 
-import play.api.libs.ws.WS
+import play.api.libs.ws.{WSResponse, WS}
 import play.api.mvc._
 import scala.concurrent.{Await, Future}
 import scala.concurrent.duration.Duration
@@ -18,17 +18,22 @@ object Application extends Controller {
   def measure (input: List[DataSet]):Future[List[DataSet]] = {
     import play.api.libs.ws.ning._
     val startTime = System.currentTimeMillis()
-    val futureArray:Future[List[DataSet]] = scala.concurrent.Future {
+    val futureArray:List[Future[DataSet]] = {
       input.map {
         case elem => {
           val start = System.currentTimeMillis()
           implicit val sslClient = NingWSClient()
-          val futClient = Await.result(WS.clientUrl(elem.url).withRequestTimeout(5000).get(),Duration.Inf)
-          DataSet(elem.url,futClient.status, start - startTime,start - startTime + (System.currentTimeMillis() - start))
+          val futClient: Future[WSResponse] = WS.clientUrl(elem.url).withRequestTimeout(35000).get()
+          futClient.map{
+            reqq => {
+              println(elem.url,reqq.status, start - startTime,start - startTime + (System.currentTimeMillis() - start))
+              DataSet(elem.url,reqq.status, start - startTime,start - startTime + (System.currentTimeMillis() - start))
+            }
+          }
         }
       }
     }
-    futureArray
+    Future.sequence(futureArray)
   }
 
   def client_send(url:String) = Action.async {
@@ -36,8 +41,10 @@ object Application extends Controller {
     import play.api.libs.ws._
     import scala.util.matching.Regex
     implicit val sslClient = NingWSClient()
-    val pattern = new Regex("(http|https)://(([a-zA-Z0-9_-]+)(\\.)*(\\/)*)+")
-    val allHtml = WS.clientUrl(url).withRequestTimeout(5000).get().map{
+
+    val pattern = new Regex("(http)://(([a-zA-Z0-9_-]+)(\\.)*(\\/)*)+")
+
+    val allHtml: Future[List[DataSet]] = WS.clientUrl(url).withRequestTimeout(45000).get().map{
       elem => pattern.findAllMatchIn(elem.body).map {
         all =>
           DataSet(all.group(0),0,0L,0L)
@@ -54,10 +61,22 @@ object Application extends Controller {
         (JsPath \ "end").write[Long]
       )(unlift(DataSet.unapply))
 
-    val answer:Future[List[DataSet]] = allHtml.flatMap(measure)
+    val answer: Future[List[DataSet]] = allHtml.flatMap(measure)
+
     answer.map{i =>
       println(Json.toJson(i).toString());
       Ok(views.html.graph(Json.toJson(i).toString()))
     }
+
+//    val kk = zz.flatMap {
+//      i: Future[DataSet] =>
+//        val  gg = i.map {
+//          z =>
+//              println(Json.toJson(z).toString())
+//              Ok(views.html.graph(Json.toJson(z).toString()))
+//        }
+//        Future(gg)
+//    }
+//    kk
   }
 }
