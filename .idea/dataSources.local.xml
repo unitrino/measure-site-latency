@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="postgres@localhost" uuid="53a1ca99-a173-4610-8bb6-92be72f0f5bd">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>test</user-name>
+    </data-source>
+    <data-source name="postgres@localhost [2]" uuid="bcfb2f64-e4dd-4016-a11d-4c4d493a3600">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>denis</user-name>
+    </data-source>
+  </component>
+</project>

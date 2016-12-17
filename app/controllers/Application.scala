@@ -1,10 +1,12 @@
 package controllers
 
-import play.api.libs.ws.{WSResponse, WS}
+import play.api.libs.ws.{WS, WSResponse}
 import play.api.mvc._
+
 import scala.concurrent.{Await, Future}
 import scala.concurrent.duration.Duration
 import play.api.libs.concurrent.Execution.Implicits.defaultContext
+import play.api.libs.ws.ning.NingWSClient
 
 object Application extends Controller {
 
@@ -13,16 +15,14 @@ object Application extends Controller {
   }
 
   case class DataSet(url:String,status:Int,start:Long,end:Long)
-
+  implicit val sslClient = NingWSClient()
 
   def measure (input: List[DataSet]):Future[List[DataSet]] = {
-    import play.api.libs.ws.ning._
     val startTime = System.currentTimeMillis()
     val futureArray:List[Future[DataSet]] = {
       input.map {
         case elem => {
           val start = System.currentTimeMillis()
-          implicit val sslClient = NingWSClient()
           val futClient: Future[WSResponse] = WS.clientUrl(elem.url).withRequestTimeout(35000).get()
           futClient.map{
             reqq => {
@@ -45,7 +45,7 @@ object Application extends Controller {
     val pattern = new Regex("(http)://(([a-zA-Z0-9_-]+)(\\.)*(\\/)*)+")
 
     val allHtml: Future[List[DataSet]] = WS.clientUrl(url).withRequestTimeout(45000).get().map{
-      elem => pattern.findAllMatchIn(elem.body).map {
+      elem => pattern.findAllMatchIn(elem.body).filter(elem => elem.group(0) != "http://www").map {
         all =>
           DataSet(all.group(0),0,0L,0L)
       }.toList
@@ -67,16 +67,5 @@ object Application extends Controller {
       println(Json.toJson(i).toString());
       Ok(views.html.graph(Json.toJson(i).toString()))
     }
-
-//    val kk = zz.flatMap {
-//      i: Future[DataSet] =>
-//        val  gg = i.map {
-//          z =>
-//              println(Json.toJson(z).toString())
-//              Ok(views.html.graph(Json.toJson(z).toString()))
-//        }
-//        Future(gg)
-//    }
-//    kk
   }
 }

@@ -4,7 +4,7 @@
 		module="play-getting-started$sources_2.11"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20161210185409"
+		publication="20161217095243"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
