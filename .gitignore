@@ -1,0 +1,6 @@
+
+Будет удалено .gitignore
+Будет удалено project/target/scala-2.10/
+Будет удалено project/target/streams/compile/incCompileSetup/
+/.idea/
+/target/
