@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/denis/Heroku/site-latency/site-latency/conf/routes
-// @DATE:Sun Nov 20 12:32:37 EET 2016
+// @SOURCE:/home/incode51/IdeaProjects/measure-site-latency/conf/routes
+// @DATE:Thu Dec 22 15:03:18 EET 2016
 
 package router
 

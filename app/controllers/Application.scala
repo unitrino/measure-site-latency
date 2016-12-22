@@ -67,16 +67,5 @@ object Application extends Controller {
       println(Json.toJson(i).toString());
       Ok(views.html.graph(Json.toJson(i).toString()))
     }
-
-//    val kk = zz.flatMap {
-//      i: Future[DataSet] =>
-//        val  gg = i.map {
-//          z =>
-//              println(Json.toJson(z).toString())
-//              Ok(views.html.graph(Json.toJson(z).toString()))
-//        }
-//        Future(gg)
-//    }
-//    kk
   }
 }

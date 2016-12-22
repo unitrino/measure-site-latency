@@ -1,0 +1,33 @@
+#main_table {
+	border: 2px solid;
+	margin: auto;
+}
+td {
+	border: 2px solid;
+}
+#controllers {
+    margin: 0 auto;
+    width:  500px;
+    text-align: center;
+}
+
+#main_info {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#url_form {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#second_row {
+    width: 300px;
+}
+#container {
+    width : 100%;
+}
+
+#third_row {
+    width: 300px;
+}

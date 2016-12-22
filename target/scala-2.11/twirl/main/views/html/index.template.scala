@@ -72,8 +72,8 @@ Seq[Any](format.raw/*1.1*/("""<!DOCTYPE html>
 object index extends index_Scope0.index
               /*
                   -- GENERATED --
-                  DATE: Wed Feb 24 18:37:06 EET 2016
-                  SOURCE: /home/denis/Heroku/site-latency/play-getting-started/app/views/index.scala.html
+                  DATE: Thu Dec 22 15:03:18 EET 2016
+                  SOURCE: /home/incode51/IdeaProjects/measure-site-latency/app/views/index.scala.html
                   HASH: 254359a0a7e8abd82031b906d0a27ef7da0eee9a
                   MATRIX: 609->0|720->85|734->91|789->126|923->234|937->240|992->275
                   LINES: 25->1|27->3|27->3|27->3|29->5|29->5|29->5

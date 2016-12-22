@@ -1,11 +1,11 @@
-2016-12-10 20:12:43,569 [INFO] from play.core.server.NettyServer in pool-4-thread-2 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
-2016-12-10 20:13:15,903 [WARN] from application in ForkJoinPool-1-worker-1 - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead.
-2016-12-10 20:13:16,278 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
-2016-12-10 20:13:27,172 [ERROR] from application in application-akka.actor.default-dispatcher-2 - 
+2016-12-22 15:28:32,209 [INFO] from play.core.server.NettyServer in pool-4-thread-2 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-12-22 15:29:31,087 [WARN] from application in ForkJoinPool-1-worker-1 - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead.
+2016-12-22 15:29:36,717 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2016-12-22 15:30:12,066 [ERROR] from application in application-akka.actor.default-dispatcher-4 - 
 
-! @72bbpjbcm - Internal server error, for (GET) [/check?site_url=https%3A%2F%2Fdou.ua%2F] ->
+! @72ejla0fb - Internal server error, for (GET) [/check?site_url=http%3A%2F%2Feax.me%2F] ->
  
-play.api.http.HttpErrorHandlerExceptions$$anon$1: Execution exception[[UnknownHostException: www: Имя или служба не известны]]
+play.api.http.HttpErrorHandlerExceptions$$anon$1: Execution exception[[UnknownHostException: coun: Имя или служба не известны]]
 	at play.api.http.HttpErrorHandlerExceptions$.throwableToUsefulException(HttpErrorHandler.scala:265) ~[play_2.11-2.4.3.jar:2.4.3]
 	at play.api.http.DefaultHttpErrorHandler.onServerError(HttpErrorHandler.scala:191) ~[play_2.11-2.4.3.jar:2.4.3]
 	at play.api.GlobalSettings$class.onError(GlobalSettings.scala:179) [play_2.11-2.4.3.jar:2.4.3]
@@ -13,35 +13,35 @@ play.api.http.HttpErrorHandlerExceptions$$anon$1: Execution exception[[UnknownHo
 	at play.api.http.GlobalSettingsHttpErrorHandler.onServerError(HttpErrorHandler.scala:94) [play_2.11-2.4.3.jar:2.4.3]
 	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$9$$anonfun$apply$1.applyOrElse(PlayDefaultUpstreamHandler.scala:158) [play-netty-server_2.11-2.4.3.jar:2.4.3]
 	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$9$$anonfun$apply$1.applyOrElse(PlayDefaultUpstreamHandler.scala:155) [play-netty-server_2.11-2.4.3.jar:2.4.3]
-	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36) [scala-library-2.11.7.jar:na]
-	at scala.util.Failure$$anonfun$recover$1.apply(Try.scala:216) [scala-library-2.11.7.jar:na]
-	at scala.util.Try$.apply(Try.scala:192) [scala-library-2.11.7.jar:na]
-	at scala.util.Failure.recover(Try.scala:216) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.Future$$anonfun$recover$1.apply(Future.scala:324) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.Future$$anonfun$recover$1.apply(Future.scala:324) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [scala-library-2.11.7.jar:na]
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36) [scala-library-2.11.8.jar:na]
+	at scala.util.Failure$$anonfun$recover$1.apply(Try.scala:216) [scala-library-2.11.8.jar:na]
+	at scala.util.Try$.apply(Try.scala:192) [scala-library-2.11.8.jar:na]
+	at scala.util.Failure.recover(Try.scala:216) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.Future$$anonfun$recover$1.apply(Future.scala:326) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.Future$$anonfun$recover$1.apply(Future.scala:326) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [scala-library-2.11.8.jar:na]
 	at play.api.libs.iteratee.Execution$trampoline$.executeScheduled(Execution.scala:109) [play-iteratees_2.11-2.4.3.jar:2.4.3]
 	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:71) [play-iteratees_2.11-2.4.3.jar:2.4.3]
-	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.Promise$class.complete(Promise.scala:55) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.Future$$anonfun$map$1.apply(Future.scala:235) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.Future$$anonfun$map$1.apply(Future.scala:235) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [scala-library-2.11.7.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.Future$$anonfun$map$1.apply(Future.scala:237) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.Future$$anonfun$map$1.apply(Future.scala:237) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [scala-library-2.11.8.jar:na]
 	at akka.dispatch.BatchingExecutor$AbstractBatch.processBatch(BatchingExecutor.scala:55) [akka-actor_2.11-2.3.13.jar:na]
 	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply$mcV$sp(BatchingExecutor.scala:91) [akka-actor_2.11-2.3.13.jar:na]
 	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply(BatchingExecutor.scala:91) [akka-actor_2.11-2.3.13.jar:na]
 	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply(BatchingExecutor.scala:91) [akka-actor_2.11-2.3.13.jar:na]
-	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:72) [scala-library-2.11.7.jar:na]
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:72) [scala-library-2.11.8.jar:na]
 	at akka.dispatch.BatchingExecutor$BlockableBatch.run(BatchingExecutor.scala:90) [akka-actor_2.11-2.3.13.jar:na]
 	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:40) [akka-actor_2.11-2.3.13.jar:na]
 	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:397) [akka-actor_2.11-2.3.13.jar:na]
-	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [scala-library-2.11.7.jar:na]
-	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [scala-library-2.11.7.jar:na]
-Caused by: java.net.UnknownHostException: www: Имя или служба не известны
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [scala-library-2.11.8.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [scala-library-2.11.8.jar:na]
+Caused by: java.net.UnknownHostException: coun: Имя или служба не известны
 	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:1.8.0_111]
 	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928) ~[na:1.8.0_111]
 	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323) ~[na:1.8.0_111]
@@ -64,10 +64,101 @@ Caused by: java.net.UnknownHostException: www: Имя или служба не �
 	at play.api.libs.ws.ning.NingWSRequest.get(NingWS.scala:81) ~[play-ws_2.11-2.4.3.jar:2.4.3]
 	at controllers.Application$$anonfun$1.apply(Application.scala:26) ~[classes/:na]
 	at controllers.Application$$anonfun$1.apply(Application.scala:22) ~[classes/:na]
-	at scala.collection.immutable.List.map(List.scala:277) ~[scala-library-2.11.7.jar:na]
+	at scala.collection.immutable.List.map(List.scala:277) ~[scala-library-2.11.8.jar:na]
 	at controllers.Application$.measure(Application.scala:22) ~[classes/:na]
 	at controllers.Application$$anonfun$client_send$1$$anonfun$4.apply(Application.scala:64) ~[classes/:na]
 	at controllers.Application$$anonfun$client_send$1$$anonfun$4.apply(Application.scala:64) ~[classes/:na]
-	at scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:251) ~[scala-library-2.11.7.jar:na]
-	at scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:249) ~[scala-library-2.11.7.jar:na]
+	at scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:253) ~[scala-library-2.11.8.jar:na]
+	at scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:251) ~[scala-library-2.11.8.jar:na]
 	... 13 common frames omitted
+2016-12-22 15:32:11,425 [WARN] from application in main - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead.
+2016-12-22 15:32:16,163 [INFO] from play.api.Play in main - Application started (Prod)
+2016-12-22 15:32:16,444 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-12-22 15:32:45,690 [ERROR] from application in application-akka.actor.default-dispatcher-3 - 
+
+! @72ejlijlm - Internal server error, for (GET) [/check?site_url=https%3A%2F%2Fwww.techempower.com%2Fbenchmarks%2F] ->
+ 
+play.api.UnexpectedException: Unexpected exception[UnknownHostException: www: Имя или служба не известны]
+	at play.api.http.HttpErrorHandlerExceptions$.throwableToUsefulException(HttpErrorHandler.scala:261) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.http.DefaultHttpErrorHandler.onServerError(HttpErrorHandler.scala:191) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.GlobalSettings$class.onError(GlobalSettings.scala:179) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.DefaultGlobal$.onError(GlobalSettings.scala:212) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.http.GlobalSettingsHttpErrorHandler.onServerError(HttpErrorHandler.scala:94) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$9$$anonfun$apply$1.applyOrElse(PlayDefaultUpstreamHandler.scala:158) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$9$$anonfun$apply$1.applyOrElse(PlayDefaultUpstreamHandler.scala:155) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.util.Failure$$anonfun$recover$1.apply(Try.scala:216) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.util.Try$.apply(Try.scala:192) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.util.Failure.recover(Try.scala:216) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.Future$$anonfun$recover$1.apply(Future.scala:326) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.Future$$anonfun$recover$1.apply(Future.scala:326) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.libs.iteratee.Execution$trampoline$.executeScheduled(Execution.scala:109) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:71) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.Future$$anonfun$map$1.apply(Future.scala:237) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.Future$$anonfun$map$1.apply(Future.scala:237) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at akka.dispatch.BatchingExecutor$AbstractBatch.processBatch(BatchingExecutor.scala:55) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply$mcV$sp(BatchingExecutor.scala:91) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply(BatchingExecutor.scala:91) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply(BatchingExecutor.scala:91) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:72) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at akka.dispatch.BatchingExecutor$BlockableBatch.run(BatchingExecutor.scala:90) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:40) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:397) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+Caused by: java.net.UnknownHostException: www: Имя или служба не известны
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:1.8.0_111]
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928) ~[na:1.8.0_111]
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323) ~[na:1.8.0_111]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276) ~[na:1.8.0_111]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192) ~[na:1.8.0_111]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126) ~[na:1.8.0_111]
+	at java.net.InetAddress.getByName(InetAddress.java:1076) ~[na:1.8.0_111]
+	at com.ning.http.client.NameResolver$JdkNameResolver.resolve(NameResolver.java:28) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at com.ning.http.client.providers.netty.request.NettyRequestSender.remoteAddress(NettyRequestSender.java:359) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at com.ning.http.client.providers.netty.request.NettyRequestSender.connect(NettyRequestSender.java:370) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at com.ning.http.client.providers.netty.request.NettyRequestSender.sendRequestWithNewChannel(NettyRequestSender.java:282) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at com.ning.http.client.providers.netty.request.NettyRequestSender.sendRequestWithCertainForceConnect(NettyRequestSender.java:140) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at com.ning.http.client.providers.netty.request.NettyRequestSender.sendRequest(NettyRequestSender.java:115) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.execute(NettyAsyncHttpProvider.java:87) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at com.ning.http.client.AsyncHttpClient.executeRequest(AsyncHttpClient.java:506) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.libs.ws.ning.NingWSClient.executeRequest(NingWS.scala:47) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.libs.ws.ning.NingWSRequest.execute(NingWS.scala:306) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.libs.ws.ning.NingWSRequest.execute(NingWS.scala:128) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.libs.ws.WSRequest$class.get(WS.scala:408) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at play.api.libs.ws.ning.NingWSRequest.get(NingWS.scala:81) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at controllers.Application$$anonfun$1.apply(Application.scala:26) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at controllers.Application$$anonfun$1.apply(Application.scala:22) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.collection.immutable.List.map(List.scala:277) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at controllers.Application$.measure(Application.scala:22) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at controllers.Application$$anonfun$client_send$1$$anonfun$4.apply(Application.scala:64) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at controllers.Application$$anonfun$client_send$1$$anonfun$4.apply(Application.scala:64) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:253) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	at scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:251) ~[play-getting-started-assembly-1.0-SNAPSHOT.jar:1.0-SNAPSHOT]
+	... 13 common frames omitted
+2016-12-22 15:33:51,709 [WARN] from application in main - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead.
+2016-12-22 15:33:52,410 [INFO] from play.api.Play in main - Application started (Prod)
+2016-12-22 15:33:52,514 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-12-22 15:34:37,620 [WARN] from application in main - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead.
+2016-12-22 15:34:38,272 [INFO] from play.api.Play in main - Application started (Prod)
+2016-12-22 15:34:38,372 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-12-22 15:37:27,867 [WARN] from application in main - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead.
+2016-12-22 15:37:28,374 [INFO] from play.api.Play in main - Application started (Prod)
+2016-12-22 15:37:28,450 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-12-22 15:37:59,543 [ERROR] from com.ning.http.client.AsyncHttpClient in application-akka.actor.default-dispatcher-8 - Unable to instantiate provider com.ning.http.client.providers.netty.NettyAsyncHttpProvider.  Trying other providers.
+2016-12-22 15:37:59,280 [ERROR] from com.ning.http.client.AsyncHttpClient in application-akka.actor.default-dispatcher-7 - Unable to instantiate provider com.ning.http.client.providers.netty.NettyAsyncHttpProvider.  Trying other providers.
+2016-12-22 15:37:59,349 [ERROR] from com.ning.http.client.AsyncHttpClient in application-akka.actor.default-dispatcher-5 - Unable to instantiate provider com.ning.http.client.providers.netty.NettyAsyncHttpProvider.  Trying other providers.
+2016-12-22 15:37:59,436 [ERROR] from com.ning.http.client.AsyncHttpClient in application-akka.actor.default-dispatcher-4 - Unable to instantiate provider com.ning.http.client.providers.netty.NettyAsyncHttpProvider.  Trying other providers.
+2016-12-22 15:37:59,349 [ERROR] from com.ning.http.client.AsyncHttpClient in application-akka.actor.default-dispatcher-10 - Unable to instantiate provider com.ning.http.client.providers.netty.NettyAsyncHttpProvider.  Trying other providers.
+2016-12-22 15:38:04,082 [WARN] from org.jboss.netty.channel.socket.nio.AbstractNioSelector in New I/O boss #72 - Unexpected exception in the selector loop.
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+2016-12-22 15:38:04,082 [WARN] from org.jboss.netty.channel.socket.nio.AbstractNioSelector in New I/O worker #293 - Unexpected exception in the selector loop.
+java.lang.OutOfMemoryError: Java heap space
